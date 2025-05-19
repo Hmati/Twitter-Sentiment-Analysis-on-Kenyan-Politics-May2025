@@ -1,0 +1,24 @@
+Project Requirements
+
+
+Python 3.8+
+
+Tweepy
+
+Pandas
+
+NLTK
+
+Matplotlib
+
+Seaborn
+
+Plotly
+
+WordCloud
+
+scikit-learn
+
+Hugging Face Transformers (for advanced models)
+
+SNScrape (optional)
