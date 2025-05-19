@@ -136,6 +136,4 @@ The goal of this project is to analyze public sentiment around Kenyan politics b
 
 This project will provide a deep dive into the sentiment landscape of Kenyan politics, offering valuable insights into public opinion and political narratives. It’s a critical step towards understanding the digital political landscape as we approach future elections.
 
----
 
-Would you like me to prepare the code for this project as well? 😊
